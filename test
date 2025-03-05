@@ -1,3 +1,4 @@
+Connection con;
 try {
 Properties props = new Properties();
 hello world
