@@ -1,3 +1,4 @@
+Connection con;
 test.init();
 public static void main(String[] args)
 } finally {
