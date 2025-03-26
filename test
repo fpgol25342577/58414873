@@ -1,3 +1,4 @@
+// error processing code
 out.write(”aString”);
 String driverClass = "oracle.jdbc.driver.OracleDriver";
 test.init();
