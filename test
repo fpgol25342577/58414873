@@ -1,3 +1,4 @@
+props.load(fs);
 // error processing code
 // error processing code
 out.write(”aString”);
