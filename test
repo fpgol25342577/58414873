@@ -1,3 +1,4 @@
+out.write(”aString”);
 Class.forName(driverClass);
 ps.close();
 props.load(fs);
